@@ -1,4 +1,4 @@
-# Flutter DataGride DataTable Sorting
+# Flutter DataGrid DataTable Sorting
 
 
 This repository contains a sample that demonstrates how to perform sorting in Syncfusion® DataGrid package.
